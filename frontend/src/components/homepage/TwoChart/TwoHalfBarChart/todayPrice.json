@@ -1,0 +1,202 @@
+[
+    {
+        "symbol": "DCM",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 34.7,
+        "priceLow": 32.75,
+        "priceOpen": 32.75,
+        "priceClose": 34.1,
+        "totalVolume": 8043400.0,
+        "totalForeignValue": 120193470000
+    },
+    {
+        "symbol": "DPM",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 56.2,
+        "priceLow": 53.5,
+        "priceOpen": 54.5,
+        "priceClose": 55.0,
+        "totalVolume": 4845200.0,
+        "totalForeignValue": 74801450000
+    },
+    {
+        "symbol": "STB",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 21.75,
+        "priceLow": 20.1,
+        "priceOpen": 20.35,
+        "priceClose": 21.75,
+        "totalVolume": 19841000.0,
+        "totalForeignValue": 73918180000
+    },
+    {
+        "symbol": "CTG",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 26.0,
+        "priceLow": 25.0,
+        "priceOpen": 25.0,
+        "priceClose": 26.0,
+        "totalVolume": 4449100.0,
+        "totalForeignValue": 55873840000
+    },
+    {
+        "symbol": "DGC",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 227.0,
+        "priceLow": 214.0,
+        "priceOpen": 216.2,
+        "priceClose": 223.0,
+        "totalVolume": 1507200.0,
+        "totalForeignValue": 49770010000
+    },
+    {
+        "symbol": "TPB",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 30.95,
+        "priceLow": 30.2,
+        "priceOpen": 30.2,
+        "priceClose": 30.9,
+        "totalVolume": 4674200.0,
+        "totalForeignValue": 33494930000
+    },
+    {
+        "symbol": "VCB",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 75.7,
+        "priceLow": 74.3,
+        "priceOpen": 74.9,
+        "priceClose": 75.6,
+        "totalVolume": 898700.0,
+        "totalForeignValue": 32673650000
+    },
+    {
+        "symbol": "HDB",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 24.6,
+        "priceLow": 23.85,
+        "priceOpen": 24.1,
+        "priceClose": 24.6,
+        "totalVolume": 2350200.0,
+        "totalForeignValue": 28960630000
+    },
+    {
+        "symbol": "VHM",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 66.9,
+        "priceLow": 65.7,
+        "priceOpen": 65.8,
+        "priceClose": 66.9,
+        "totalVolume": 2512000.0,
+        "totalForeignValue": 22326330000
+    },
+    {
+        "symbol": "VRE",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 28.1,
+        "priceLow": 26.6,
+        "priceOpen": 27.35,
+        "priceClose": 28.1,
+        "totalVolume": 2611100.0,
+        "totalForeignValue": 22244200000
+    },
+    {
+        "symbol": "DIG",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 58.0,
+        "priceLow": 51.5,
+        "priceOpen": 53.5,
+        "priceClose": 58.0,
+        "totalVolume": 8674200.0,
+        "totalForeignValue": -6974560000
+    },
+    {
+        "symbol": "SAB",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 155.0,
+        "priceLow": 153.0,
+        "priceOpen": 154.1,
+        "priceClose": 154.0,
+        "totalVolume": 178100.0,
+        "totalForeignValue": -7035960000
+    },
+    {
+        "symbol": "PVD",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 20.75,
+        "priceLow": 19.5,
+        "priceOpen": 20.4,
+        "priceClose": 20.6,
+        "totalVolume": 8160400.0,
+        "totalForeignValue": -7057570000
+    },
+    {
+        "symbol": "KDH",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 40.9,
+        "priceLow": 38.9,
+        "priceOpen": 40.8,
+        "priceClose": 40.1,
+        "totalVolume": 723100.0,
+        "totalForeignValue": -9140810000
+    },
+    {
+        "symbol": "NKG",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 30.45,
+        "priceLow": 27.9,
+        "priceOpen": 30.2,
+        "priceClose": 28.35,
+        "totalVolume": 9478000.0,
+        "totalForeignValue": -12944730000
+    },
+    {
+        "symbol": "GAS",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 106.9,
+        "priceLow": 102.6,
+        "priceOpen": 103.5,
+        "priceClose": 105.8,
+        "totalVolume": 840400.0,
+        "totalForeignValue": -19550040000
+    },
+    {
+        "symbol": "VCI",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 36.75,
+        "priceLow": 33.1,
+        "priceOpen": 34.8,
+        "priceClose": 36.75,
+        "totalVolume": 5151200.0,
+        "totalForeignValue": -31536720000
+    },
+    {
+        "symbol": "SSI",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 28.1,
+        "priceLow": 25.15,
+        "priceOpen": 26.4,
+        "priceClose": 28.1,
+        "totalVolume": 21895816.0,
+        "totalForeignValue": -71592740000
+    },
+    {
+        "symbol": "VND",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 24.0,
+        "priceLow": 21.7,
+        "priceOpen": 23.3,
+        "priceClose": 24.0,
+        "totalVolume": 13598900.0,
+        "totalForeignValue": -85327540000
+    },
+    {
+        "symbol": "HPG",
+        "date": "2022-05-24T00:00:00",
+        "priceHigh": 37.0,
+        "priceLow": 34.2,
+        "priceOpen": 36.75,
+        "priceClose": 34.9,
+        "totalVolume": 43221300.0,
+        "totalForeignValue": -143900870000
+    }
+]

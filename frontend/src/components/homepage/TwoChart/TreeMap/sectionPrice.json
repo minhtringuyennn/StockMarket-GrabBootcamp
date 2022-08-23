@@ -1,0 +1,2636 @@
+{
+    "Bao bì & đóng gói": [
+        {
+            "symbol": "AAA",
+            "priceOpen": 11.9,
+            "priceClose": 12.0,
+            "totalVolume": 4355900.0
+        },
+        {
+            "symbol": "MCP",
+            "priceOpen": 26.75,
+            "priceClose": 27.55,
+            "totalVolume": 1900.0
+        },
+        {
+            "symbol": "RDP",
+            "priceOpen": 9.2,
+            "priceClose": 9.45,
+            "totalVolume": 6400.0
+        },
+        {
+            "symbol": "SVI",
+            "priceOpen": 62.3,
+            "priceClose": 62.3,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "TPC",
+            "priceOpen": 9.57,
+            "priceClose": 9.89,
+            "totalVolume": 800.0
+        }
+    ],
+    "Nông sản và thủy hải sản": [
+        {
+            "symbol": "AAM",
+            "priceOpen": 12.45,
+            "priceClose": 12.05,
+            "totalVolume": 11500.0
+        },
+        {
+            "symbol": "ABT",
+            "priceOpen": 39.8,
+            "priceClose": 41.45,
+            "totalVolume": 2900.0
+        },
+        {
+            "symbol": "ACL",
+            "priceOpen": 24.05,
+            "priceClose": 24.2,
+            "totalVolume": 317000.0
+        },
+        {
+            "symbol": "ANV",
+            "priceOpen": 42.9,
+            "priceClose": 44.0,
+            "totalVolume": 1637100.0
+        },
+        {
+            "symbol": "BAF",
+            "priceOpen": 34.6,
+            "priceClose": 37.0,
+            "totalVolume": 3355800.0
+        },
+        {
+            "symbol": "DBC",
+            "priceOpen": 23.2,
+            "priceClose": 23.25,
+            "totalVolume": 508100.0
+        },
+        {
+            "symbol": "FMC",
+            "priceOpen": 54.0,
+            "priceClose": 55.4,
+            "totalVolume": 62300.0
+        },
+        {
+            "symbol": "HNG",
+            "priceOpen": 6.2,
+            "priceClose": 6.1,
+            "totalVolume": 4302100.0
+        },
+        {
+            "symbol": "HSL",
+            "priceOpen": 6.73,
+            "priceClose": 6.6,
+            "totalVolume": 140400.0
+        },
+        {
+            "symbol": "IDI",
+            "priceOpen": 21.8,
+            "priceClose": 22.2,
+            "totalVolume": 4685600.0
+        },
+        {
+            "symbol": "NSC",
+            "priceOpen": 92.2,
+            "priceClose": 90.0,
+            "totalVolume": 8600.0
+        },
+        {
+            "symbol": "PIT",
+            "priceOpen": 8.49,
+            "priceClose": 7.96,
+            "totalVolume": 11600.0
+        },
+        {
+            "symbol": "SJF",
+            "priceOpen": 10.65,
+            "priceClose": 10.45,
+            "totalVolume": 784900.0
+        },
+        {
+            "symbol": "SSC",
+            "priceOpen": 40.0,
+            "priceClose": 40.0,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "TSC",
+            "priceOpen": 9.05,
+            "priceClose": 9.35,
+            "totalVolume": 2471900.0
+        },
+        {
+            "symbol": "VHC",
+            "priceOpen": 91.6,
+            "priceClose": 94.0,
+            "totalVolume": 1338100.0
+        }
+    ],
+    "Đồ may mặc, trang sức, phụ kiện": [
+        {
+            "symbol": "AAT",
+            "priceOpen": 14.7,
+            "priceClose": 14.65,
+            "totalVolume": 295200.0
+        },
+        {
+            "symbol": "GIL",
+            "priceOpen": 62.9,
+            "priceClose": 63.8,
+            "totalVolume": 438800.0
+        },
+        {
+            "symbol": "GMC",
+            "priceOpen": 20.5,
+            "priceClose": 21.0,
+            "totalVolume": 3000.0
+        },
+        {
+            "symbol": "KMR",
+            "priceOpen": 5.7,
+            "priceClose": 5.53,
+            "totalVolume": 58400.0
+        },
+        {
+            "symbol": "MSH",
+            "priceOpen": 68.5,
+            "priceClose": 67.0,
+            "totalVolume": 92400.0
+        },
+        {
+            "symbol": "SVD",
+            "priceOpen": 7.05,
+            "priceClose": 6.96,
+            "totalVolume": 35800.0
+        },
+        {
+            "symbol": "TCM",
+            "priceOpen": 56.6,
+            "priceClose": 59.0,
+            "totalVolume": 390000.0
+        },
+        {
+            "symbol": "TVT",
+            "priceOpen": 30.0,
+            "priceClose": 29.5,
+            "totalVolume": 8700.0
+        }
+    ],
+    "Dịch vụ tiện ích tổng hợp": [
+        {
+            "symbol": "ABR",
+            "priceOpen": 20.1,
+            "priceClose": 20.1,
+            "totalVolume": 200.0
+        },
+        {
+            "symbol": "REE",
+            "priceOpen": 73.1,
+            "priceClose": 75.0,
+            "totalVolume": 997800.0
+        }
+    ],
+    "Sản phẩm sinh hóa": [
+        {
+            "symbol": "ABS",
+            "priceOpen": 12.1,
+            "priceClose": 12.1,
+            "totalVolume": 270100.0
+        }
+    ],
+    "Ngân hàng": [
+        {
+            "symbol": "ACB",
+            "priceOpen": 28.8,
+            "priceClose": 28.8,
+            "totalVolume": 1574100.0
+        },
+        {
+            "symbol": "BID",
+            "priceOpen": 33.7,
+            "priceClose": 33.75,
+            "totalVolume": 768000.0
+        },
+        {
+            "symbol": "CTG",
+            "priceOpen": 25.0,
+            "priceClose": 26.0,
+            "totalVolume": 4449100.0
+        },
+        {
+            "symbol": "EIB",
+            "priceOpen": 31.3,
+            "priceClose": 31.6,
+            "totalVolume": 923600.0
+        },
+        {
+            "symbol": "HDB",
+            "priceOpen": 24.1,
+            "priceClose": 24.6,
+            "totalVolume": 2350200.0
+        },
+        {
+            "symbol": "LPB",
+            "priceOpen": 14.4,
+            "priceClose": 14.6,
+            "totalVolume": 3754100.0
+        },
+        {
+            "symbol": "MBB",
+            "priceOpen": 26.5,
+            "priceClose": 26.85,
+            "totalVolume": 7826733.0
+        },
+        {
+            "symbol": "MSB",
+            "priceOpen": 19.1,
+            "priceClose": 19.0,
+            "totalVolume": 8869100.0
+        },
+        {
+            "symbol": "OCB",
+            "priceOpen": 20.0,
+            "priceClose": 20.1,
+            "totalVolume": 1238400.0
+        },
+        {
+            "symbol": "SHB",
+            "priceOpen": 14.3,
+            "priceClose": 14.4,
+            "totalVolume": 19689805.0
+        },
+        {
+            "symbol": "SSB",
+            "priceOpen": 34.7,
+            "priceClose": 34.05,
+            "totalVolume": 1786300.0
+        },
+        {
+            "symbol": "STB",
+            "priceOpen": 20.35,
+            "priceClose": 21.75,
+            "totalVolume": 19841000.0
+        },
+        {
+            "symbol": "TCB",
+            "priceOpen": 34.8,
+            "priceClose": 35.25,
+            "totalVolume": 5466300.0
+        },
+        {
+            "symbol": "TPB",
+            "priceOpen": 30.2,
+            "priceClose": 30.9,
+            "totalVolume": 4674200.0
+        },
+        {
+            "symbol": "VCB",
+            "priceOpen": 74.9,
+            "priceClose": 75.6,
+            "totalVolume": 898700.0
+        },
+        {
+            "symbol": "VIB",
+            "priceOpen": 24.45,
+            "priceClose": 25.5,
+            "totalVolume": 1284000.0
+        },
+        {
+            "symbol": "VPB",
+            "priceOpen": 29.6,
+            "priceClose": 30.0,
+            "totalVolume": 9975000.0
+        }
+    ],
+    "Vật liệu xây dựng": [
+        {
+            "symbol": "ACC",
+            "priceOpen": 14.75,
+            "priceClose": 14.6,
+            "totalVolume": 224800.0
+        },
+        {
+            "symbol": "BMP",
+            "priceOpen": 55.4,
+            "priceClose": 56.0,
+            "totalVolume": 48600.0
+        },
+        {
+            "symbol": "C32",
+            "priceOpen": 25.8,
+            "priceClose": 25.75,
+            "totalVolume": 121600.0
+        },
+        {
+            "symbol": "C47",
+            "priceOpen": 14.25,
+            "priceClose": 14.7,
+            "totalVolume": 130500.0
+        },
+        {
+            "symbol": "CVT",
+            "priceOpen": 44.0,
+            "priceClose": 44.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "DAG",
+            "priceOpen": 7.52,
+            "priceClose": 7.41,
+            "totalVolume": 389700.0
+        },
+        {
+            "symbol": "DHA",
+            "priceOpen": 44.55,
+            "priceClose": 44.15,
+            "totalVolume": 23900.0
+        },
+        {
+            "symbol": "DXV",
+            "priceOpen": 5.4,
+            "priceClose": 5.4,
+            "totalVolume": 27600.0
+        },
+        {
+            "symbol": "EVG",
+            "priceOpen": 7.95,
+            "priceClose": 7.78,
+            "totalVolume": 1430060.0
+        },
+        {
+            "symbol": "GAB",
+            "priceOpen": 196.4,
+            "priceClose": 196.4,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "HCD",
+            "priceOpen": 11.0,
+            "priceClose": 10.9,
+            "totalVolume": 172300.0
+        },
+        {
+            "symbol": "HT1",
+            "priceOpen": 15.95,
+            "priceClose": 15.95,
+            "totalVolume": 4694100.0
+        },
+        {
+            "symbol": "HU3",
+            "priceOpen": 8.01,
+            "priceClose": 8.2,
+            "totalVolume": 2000.0
+        },
+        {
+            "symbol": "HVX",
+            "priceOpen": 5.2,
+            "priceClose": 5.0,
+            "totalVolume": 32100.0
+        },
+        {
+            "symbol": "KPF",
+            "priceOpen": 13.8,
+            "priceClose": 13.4,
+            "totalVolume": 70100.0
+        },
+        {
+            "symbol": "LBM",
+            "priceOpen": 92.8,
+            "priceClose": 92.8,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "NAV",
+            "priceOpen": 22.65,
+            "priceClose": 23.15,
+            "totalVolume": 4400.0
+        },
+        {
+            "symbol": "NNC",
+            "priceOpen": 18.1,
+            "priceClose": 18.3,
+            "totalVolume": 3100.0
+        },
+        {
+            "symbol": "PTB",
+            "priceOpen": 103.7,
+            "priceClose": 102.3,
+            "totalVolume": 83500.0
+        },
+        {
+            "symbol": "PTL",
+            "priceOpen": 5.95,
+            "priceClose": 5.73,
+            "totalVolume": 171300.0
+        },
+        {
+            "symbol": "SBV",
+            "priceOpen": 14.95,
+            "priceClose": 14.9,
+            "totalVolume": 47000.0
+        },
+        {
+            "symbol": "TCR",
+            "priceOpen": 5.56,
+            "priceClose": 5.25,
+            "totalVolume": 4800.0
+        },
+        {
+            "symbol": "TDC",
+            "priceOpen": 14.45,
+            "priceClose": 14.0,
+            "totalVolume": 149900.0
+        },
+        {
+            "symbol": "THG",
+            "priceOpen": 76.7,
+            "priceClose": 76.0,
+            "totalVolume": 20200.0
+        },
+        {
+            "symbol": "TLD",
+            "priceOpen": 6.86,
+            "priceClose": 6.77,
+            "totalVolume": 50100.0
+        },
+        {
+            "symbol": "TTB",
+            "priceOpen": 5.18,
+            "priceClose": 5.17,
+            "totalVolume": 373900.0
+        },
+        {
+            "symbol": "VGC",
+            "priceOpen": 36.8,
+            "priceClose": 38.0,
+            "totalVolume": 771000.0
+        }
+    ],
+    "Các hãng truyền thông": [
+        {
+            "symbol": "ADG",
+            "priceOpen": 45.6,
+            "priceClose": 44.8,
+            "totalVolume": 69400.0
+        },
+        {
+            "symbol": "YEG",
+            "priceOpen": 16.45,
+            "priceClose": 16.5,
+            "totalVolume": 416500.0
+        }
+    ],
+    "Hóa chất cơ bản": [
+        {
+            "symbol": "ADS",
+            "priceOpen": 29.15,
+            "priceClose": 29.2,
+            "totalVolume": 250800.0
+        },
+        {
+            "symbol": "APH",
+            "priceOpen": 14.4,
+            "priceClose": 14.4,
+            "totalVolume": 2007400.0
+        },
+        {
+            "symbol": "BRC",
+            "priceOpen": 13.4,
+            "priceClose": 14.0,
+            "totalVolume": 3800.0
+        },
+        {
+            "symbol": "DGC",
+            "priceOpen": 216.2,
+            "priceClose": 223.0,
+            "totalVolume": 1507200.0
+        },
+        {
+            "symbol": "DPR",
+            "priceOpen": 73.7,
+            "priceClose": 73.7,
+            "totalVolume": 110200.0
+        },
+        {
+            "symbol": "GVR",
+            "priceOpen": 23.65,
+            "priceClose": 24.15,
+            "totalVolume": 1718300.0
+        },
+        {
+            "symbol": "HRC",
+            "priceOpen": 53.0,
+            "priceClose": 53.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "NHH",
+            "priceOpen": 16.8,
+            "priceClose": 16.9,
+            "totalVolume": 195400.0
+        },
+        {
+            "symbol": "PHR",
+            "priceOpen": 60.3,
+            "priceClose": 60.6,
+            "totalVolume": 193400.0
+        },
+        {
+            "symbol": "STK",
+            "priceOpen": 52.4,
+            "priceClose": 55.6,
+            "totalVolume": 53400.0
+        },
+        {
+            "symbol": "TNC",
+            "priceOpen": 42.3,
+            "priceClose": 42.3,
+            "totalVolume": 400.0
+        },
+        {
+            "symbol": "TRC",
+            "priceOpen": 39.8,
+            "priceClose": 38.6,
+            "totalVolume": 14200.0
+        }
+    ],
+    "Đầu tư và phát triển bất động sản": [
+        {
+            "symbol": "AGG",
+            "priceOpen": 37.6,
+            "priceClose": 37.8,
+            "totalVolume": 215300.0
+        },
+        {
+            "symbol": "ASM",
+            "priceOpen": 17.0,
+            "priceClose": 17.45,
+            "totalVolume": 4596100.0
+        },
+        {
+            "symbol": "BCM",
+            "priceOpen": 71.2,
+            "priceClose": 74.0,
+            "totalVolume": 208500.0
+        },
+        {
+            "symbol": "CCL",
+            "priceOpen": 10.05,
+            "priceClose": 9.98,
+            "totalVolume": 105700.0
+        },
+        {
+            "symbol": "CIG",
+            "priceOpen": 8.9,
+            "priceClose": 8.6,
+            "totalVolume": 155600.0
+        },
+        {
+            "symbol": "CII",
+            "priceOpen": 21.0,
+            "priceClose": 21.9,
+            "totalVolume": 4605400.0
+        },
+        {
+            "symbol": "D2D",
+            "priceOpen": 50.5,
+            "priceClose": 50.3,
+            "totalVolume": 30000.0
+        },
+        {
+            "symbol": "DIG",
+            "priceOpen": 53.5,
+            "priceClose": 58.0,
+            "totalVolume": 8674200.0
+        },
+        {
+            "symbol": "DRH",
+            "priceOpen": 13.55,
+            "priceClose": 14.5,
+            "totalVolume": 349700.0
+        },
+        {
+            "symbol": "DTA",
+            "priceOpen": 12.0,
+            "priceClose": 12.2,
+            "totalVolume": 1200.0
+        },
+        {
+            "symbol": "DXG",
+            "priceOpen": 25.5,
+            "priceClose": 26.5,
+            "totalVolume": 6139600.0
+        },
+        {
+            "symbol": "FDC",
+            "priceOpen": 25.5,
+            "priceClose": 25.5,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "FIR",
+            "priceOpen": 41.8,
+            "priceClose": 41.0,
+            "totalVolume": 285400.0
+        },
+        {
+            "symbol": "FIT",
+            "priceOpen": 8.75,
+            "priceClose": 8.81,
+            "totalVolume": 1576400.0
+        },
+        {
+            "symbol": "FLC",
+            "priceOpen": 6.76,
+            "priceClose": 6.62,
+            "totalVolume": 5265600.0
+        },
+        {
+            "symbol": "HAG",
+            "priceOpen": 8.84,
+            "priceClose": 8.72,
+            "totalVolume": 10733100.0
+        },
+        {
+            "symbol": "HAR",
+            "priceOpen": 6.99,
+            "priceClose": 6.85,
+            "totalVolume": 355600.0
+        },
+        {
+            "symbol": "HDC",
+            "priceOpen": 55.0,
+            "priceClose": 58.0,
+            "totalVolume": 1171500.0
+        },
+        {
+            "symbol": "HDG",
+            "priceOpen": 45.1,
+            "priceClose": 46.2,
+            "totalVolume": 847200.0
+        },
+        {
+            "symbol": "HPX",
+            "priceOpen": 26.1,
+            "priceClose": 24.7,
+            "totalVolume": 3078500.0
+        },
+        {
+            "symbol": "HQC",
+            "priceOpen": 5.62,
+            "priceClose": 5.45,
+            "totalVolume": 9910800.0
+        },
+        {
+            "symbol": "ITA",
+            "priceOpen": 11.2,
+            "priceClose": 11.3,
+            "totalVolume": 4455500.0
+        },
+        {
+            "symbol": "ITC",
+            "priceOpen": 12.15,
+            "priceClose": 12.0,
+            "totalVolume": 292400.0
+        },
+        {
+            "symbol": "KBC",
+            "priceOpen": 40.5,
+            "priceClose": 41.8,
+            "totalVolume": 3046300.0
+        },
+        {
+            "symbol": "KDH",
+            "priceOpen": 40.8,
+            "priceClose": 40.1,
+            "totalVolume": 723100.0
+        },
+        {
+            "symbol": "KOS",
+            "priceOpen": 34.6,
+            "priceClose": 33.9,
+            "totalVolume": 503700.0
+        },
+        {
+            "symbol": "LDG",
+            "priceOpen": 12.5,
+            "priceClose": 12.7,
+            "totalVolume": 2386700.0
+        },
+        {
+            "symbol": "LEC",
+            "priceOpen": 11.1,
+            "priceClose": 10.95,
+            "totalVolume": 1500.0
+        },
+        {
+            "symbol": "LGL",
+            "priceOpen": 5.94,
+            "priceClose": 6.0,
+            "totalVolume": 62700.0
+        },
+        {
+            "symbol": "LHG",
+            "priceOpen": 33.95,
+            "priceClose": 34.0,
+            "totalVolume": 350300.0
+        },
+        {
+            "symbol": "NBB",
+            "priceOpen": 20.0,
+            "priceClose": 19.3,
+            "totalVolume": 1346300.0
+        },
+        {
+            "symbol": "NLG",
+            "priceOpen": 46.2,
+            "priceClose": 46.0,
+            "totalVolume": 1535100.0
+        },
+        {
+            "symbol": "NTL",
+            "priceOpen": 26.2,
+            "priceClose": 26.2,
+            "totalVolume": 133000.0
+        },
+        {
+            "symbol": "NVL",
+            "priceOpen": 76.4,
+            "priceClose": 77.2,
+            "totalVolume": 8247683.0
+        },
+        {
+            "symbol": "NVT",
+            "priceOpen": 16.8,
+            "priceClose": 16.0,
+            "totalVolume": 7500.0
+        },
+        {
+            "symbol": "OGC",
+            "priceOpen": 12.25,
+            "priceClose": 11.45,
+            "totalVolume": 4398600.0
+        },
+        {
+            "symbol": "PDR",
+            "priceOpen": 52.6,
+            "priceClose": 53.2,
+            "totalVolume": 2092200.0
+        },
+        {
+            "symbol": "QCG",
+            "priceOpen": 9.9,
+            "priceClose": 9.86,
+            "totalVolume": 195500.0
+        },
+        {
+            "symbol": "SCR",
+            "priceOpen": 12.2,
+            "priceClose": 12.4,
+            "totalVolume": 2560800.0
+        },
+        {
+            "symbol": "SGR",
+            "priceOpen": 21.7,
+            "priceClose": 20.8,
+            "totalVolume": 12300.0
+        },
+        {
+            "symbol": "SII",
+            "priceOpen": 13.1,
+            "priceClose": 13.95,
+            "totalVolume": 1600.0
+        },
+        {
+            "symbol": "SJS",
+            "priceOpen": 69.5,
+            "priceClose": 72.2,
+            "totalVolume": 9900.0
+        },
+        {
+            "symbol": "SZL",
+            "priceOpen": 58.0,
+            "priceClose": 59.8,
+            "totalVolume": 2600.0
+        },
+        {
+            "symbol": "TCH",
+            "priceOpen": 12.7,
+            "priceClose": 12.7,
+            "totalVolume": 3505100.0
+        },
+        {
+            "symbol": "TDH",
+            "priceOpen": 7.4,
+            "priceClose": 8.14,
+            "totalVolume": 44900.0
+        },
+        {
+            "symbol": "TIX",
+            "priceOpen": 33.0,
+            "priceClose": 33.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "TNT",
+            "priceOpen": 10.15,
+            "priceClose": 10.4,
+            "totalVolume": 251000.0
+        },
+        {
+            "symbol": "VHM",
+            "priceOpen": 65.8,
+            "priceClose": 66.9,
+            "totalVolume": 2512000.0
+        },
+        {
+            "symbol": "VIC",
+            "priceOpen": 77.0,
+            "priceClose": 77.6,
+            "totalVolume": 1568300.0
+        },
+        {
+            "symbol": "VPH",
+            "priceOpen": 8.9,
+            "priceClose": 9.0,
+            "totalVolume": 168800.0
+        },
+        {
+            "symbol": "VPI",
+            "priceOpen": 58.9,
+            "priceClose": 57.5,
+            "totalVolume": 1984300.0
+        },
+        {
+            "symbol": "VRC",
+            "priceOpen": 14.0,
+            "priceClose": 13.7,
+            "totalVolume": 49300.0
+        },
+        {
+            "symbol": "VRE",
+            "priceOpen": 27.35,
+            "priceClose": 28.1,
+            "totalVolume": 2611100.0
+        }
+    ],
+    "Sản xuất thực phẩm": [
+        {
+            "symbol": "AGM",
+            "priceOpen": 28.65,
+            "priceClose": 28.5,
+            "totalVolume": 181900.0
+        },
+        {
+            "symbol": "BBC",
+            "priceOpen": 71.2,
+            "priceClose": 71.0,
+            "totalVolume": 400.0
+        },
+        {
+            "symbol": "CMX",
+            "priceOpen": 17.8,
+            "priceClose": 18.2,
+            "totalVolume": 1239400.0
+        },
+        {
+            "symbol": "KDC",
+            "priceOpen": 50.7,
+            "priceClose": 53.2,
+            "totalVolume": 1650600.0
+        },
+        {
+            "symbol": "LAF",
+            "priceOpen": 22.9,
+            "priceClose": 22.9,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "LSS",
+            "priceOpen": 10.0,
+            "priceClose": 9.8,
+            "totalVolume": 223100.0
+        },
+        {
+            "symbol": "MSN",
+            "priceOpen": 104.5,
+            "priceClose": 109.0,
+            "totalVolume": 859100.0
+        },
+        {
+            "symbol": "PAN",
+            "priceOpen": 20.85,
+            "priceClose": 20.9,
+            "totalVolume": 928200.0
+        },
+        {
+            "symbol": "SBT",
+            "priceOpen": 15.9,
+            "priceClose": 15.6,
+            "totalVolume": 1125200.0
+        },
+        {
+            "symbol": "VNM",
+            "priceOpen": 66.7,
+            "priceClose": 68.9,
+            "totalVolume": 2033000.0
+        }
+    ],
+    "Dịch vụ đầu tư": [
+        {
+            "symbol": "AGR",
+            "priceOpen": 12.05,
+            "priceClose": 12.3,
+            "totalVolume": 482900.0
+        },
+        {
+            "symbol": "APG",
+            "priceOpen": 9.3,
+            "priceClose": 9.19,
+            "totalVolume": 1233800.0
+        },
+        {
+            "symbol": "BSI",
+            "priceOpen": 24.85,
+            "priceClose": 27.25,
+            "totalVolume": 609800.0
+        },
+        {
+            "symbol": "CTS",
+            "priceOpen": 19.6,
+            "priceClose": 20.5,
+            "totalVolume": 709200.0
+        },
+        {
+            "symbol": "FTS",
+            "priceOpen": 34.5,
+            "priceClose": 35.1,
+            "totalVolume": 332300.0
+        },
+        {
+            "symbol": "HCM",
+            "priceOpen": 21.5,
+            "priceClose": 22.8,
+            "totalVolume": 4925500.0
+        },
+        {
+            "symbol": "ORS",
+            "priceOpen": 15.3,
+            "priceClose": 15.65,
+            "totalVolume": 322200.0
+        },
+        {
+            "symbol": "SSI",
+            "priceOpen": 26.4,
+            "priceClose": 28.1,
+            "totalVolume": 21895816.0
+        },
+        {
+            "symbol": "TVB",
+            "priceOpen": 9.2,
+            "priceClose": 9.2,
+            "totalVolume": 433000.0
+        },
+        {
+            "symbol": "TVS",
+            "priceOpen": 33.0,
+            "priceClose": 33.5,
+            "totalVolume": 54100.0
+        },
+        {
+            "symbol": "VCI",
+            "priceOpen": 34.8,
+            "priceClose": 36.75,
+            "totalVolume": 5151200.0
+        },
+        {
+            "symbol": "VDS",
+            "priceOpen": 20.0,
+            "priceClose": 20.1,
+            "totalVolume": 147900.0
+        },
+        {
+            "symbol": "VIX",
+            "priceOpen": 11.9,
+            "priceClose": 12.0,
+            "totalVolume": 9108300.0
+        },
+        {
+            "symbol": "VND",
+            "priceOpen": 23.3,
+            "priceClose": 24.0,
+            "totalVolume": 13598900.0
+        }
+    ],
+    "Bán lẻ tổng hợp": [
+        {
+            "symbol": "AMD",
+            "priceOpen": 3.9,
+            "priceClose": 3.82,
+            "totalVolume": 1228900.0
+        },
+        {
+            "symbol": "DGW",
+            "priceOpen": 108.3,
+            "priceClose": 112.0,
+            "totalVolume": 751400.0
+        },
+        {
+            "symbol": "MWG",
+            "priceOpen": 130.9,
+            "priceClose": 133.0,
+            "totalVolume": 577700.0
+        },
+        {
+            "symbol": "TNA",
+            "priceOpen": 10.8,
+            "priceClose": 10.8,
+            "totalVolume": 198500.0
+        }
+    ],
+    "Hóa chất đặc biệt": [
+        {
+            "symbol": "APC",
+            "priceOpen": 21.8,
+            "priceClose": 21.55,
+            "totalVolume": 5200.0
+        },
+        {
+            "symbol": "BFC",
+            "priceOpen": 26.05,
+            "priceClose": 27.0,
+            "totalVolume": 560100.0
+        },
+        {
+            "symbol": "CSV",
+            "priceOpen": 42.8,
+            "priceClose": 41.8,
+            "totalVolume": 511500.0
+        },
+        {
+            "symbol": "DCM",
+            "priceOpen": 32.75,
+            "priceClose": 34.1,
+            "totalVolume": 8043400.0
+        },
+        {
+            "symbol": "DPM",
+            "priceOpen": 54.5,
+            "priceClose": 55.0,
+            "totalVolume": 4845200.0
+        },
+        {
+            "symbol": "DTT",
+            "priceOpen": 12.15,
+            "priceClose": 12.15,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "HAI",
+            "priceOpen": 3.51,
+            "priceClose": 3.43,
+            "totalVolume": 1281300.0
+        },
+        {
+            "symbol": "QBS",
+            "priceOpen": 4.6,
+            "priceClose": 4.6,
+            "totalVolume": 392700.0
+        },
+        {
+            "symbol": "SFG",
+            "priceOpen": 14.25,
+            "priceClose": 15.3,
+            "totalVolume": 1100.0
+        },
+        {
+            "symbol": "TDP",
+            "priceOpen": 26.0,
+            "priceClose": 26.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "VAF",
+            "priceOpen": 13.9,
+            "priceClose": 13.5,
+            "totalVolume": 600.0
+        },
+        {
+            "symbol": "VFG",
+            "priceOpen": 52.6,
+            "priceClose": 52.6,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "VPS",
+            "priceOpen": 12.25,
+            "priceClose": 13.25,
+            "totalVolume": 1100.0
+        },
+        {
+            "symbol": "YBM",
+            "priceOpen": 7.5,
+            "priceClose": 7.82,
+            "totalVolume": 14000.0
+        }
+    ],
+    "Dịch vụ vận tải": [
+        {
+            "symbol": "ASG",
+            "priceOpen": 29.0,
+            "priceClose": 29.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "CLL",
+            "priceOpen": 30.0,
+            "priceClose": 29.9,
+            "totalVolume": 5600.0
+        },
+        {
+            "symbol": "DVP",
+            "priceOpen": 56.1,
+            "priceClose": 56.0,
+            "totalVolume": 17400.0
+        },
+        {
+            "symbol": "GMD",
+            "priceOpen": 50.5,
+            "priceClose": 51.4,
+            "totalVolume": 858900.0
+        },
+        {
+            "symbol": "HAH",
+            "priceOpen": 72.3,
+            "priceClose": 74.5,
+            "totalVolume": 1014100.0
+        },
+        {
+            "symbol": "HHV",
+            "priceOpen": 14.8,
+            "priceClose": 15.0,
+            "totalVolume": 973300.0
+        },
+        {
+            "symbol": "HTV",
+            "priceOpen": 12.65,
+            "priceClose": 12.65,
+            "totalVolume": 5400.0
+        },
+        {
+            "symbol": "PDN",
+            "priceOpen": 114.5,
+            "priceClose": 114.5,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "PJT",
+            "priceOpen": 11.6,
+            "priceClose": 11.4,
+            "totalVolume": 52800.0
+        },
+        {
+            "symbol": "SCS",
+            "priceOpen": 168.0,
+            "priceClose": 166.8,
+            "totalVolume": 13400.0
+        },
+        {
+            "symbol": "SGN",
+            "priceOpen": 65.5,
+            "priceClose": 67.0,
+            "totalVolume": 6600.0
+        },
+        {
+            "symbol": "STG",
+            "priceOpen": 30.9,
+            "priceClose": 30.8,
+            "totalVolume": 27600.0
+        },
+        {
+            "symbol": "TCL",
+            "priceOpen": 33.6,
+            "priceClose": 33.9,
+            "totalVolume": 74900.0
+        },
+        {
+            "symbol": "TMS",
+            "priceOpen": 85.0,
+            "priceClose": 86.9,
+            "totalVolume": 11700.0
+        },
+        {
+            "symbol": "VSC",
+            "priceOpen": 43.3,
+            "priceClose": 43.25,
+            "totalVolume": 398000.0
+        }
+    ],
+    "Gas": [
+        {
+            "symbol": "ASP",
+            "priceOpen": 8.26,
+            "priceClose": 8.21,
+            "totalVolume": 66100.0
+        },
+        {
+            "symbol": "CNG",
+            "priceOpen": 33.4,
+            "priceClose": 33.9,
+            "totalVolume": 166200.0
+        },
+        {
+            "symbol": "GAS",
+            "priceOpen": 103.5,
+            "priceClose": 105.8,
+            "totalVolume": 840400.0
+        },
+        {
+            "symbol": "GSP",
+            "priceOpen": 11.1,
+            "priceClose": 10.8,
+            "totalVolume": 150000.0
+        },
+        {
+            "symbol": "PGC",
+            "priceOpen": 20.6,
+            "priceClose": 20.0,
+            "totalVolume": 52100.0
+        },
+        {
+            "symbol": "PGD",
+            "priceOpen": 31.5,
+            "priceClose": 31.5,
+            "totalVolume": 5300.0
+        },
+        {
+            "symbol": "PMG",
+            "priceOpen": 14.4,
+            "priceClose": 14.4,
+            "totalVolume": 300.0
+        }
+    ],
+    "Dịch vụ tiêu dùng chuyên dụng": [
+        {
+            "symbol": "AST",
+            "priceOpen": 55.0,
+            "priceClose": 55.0,
+            "totalVolume": 38300.0
+        }
+    ],
+    "Xây dựng công trình": [
+        {
+            "symbol": "BCE",
+            "priceOpen": 10.45,
+            "priceClose": 10.45,
+            "totalVolume": 65300.0
+        },
+        {
+            "symbol": "CDC",
+            "priceOpen": 17.65,
+            "priceClose": 17.75,
+            "totalVolume": 73300.0
+        },
+        {
+            "symbol": "CEE",
+            "priceOpen": 13.0,
+            "priceClose": 12.75,
+            "totalVolume": 1400.0
+        },
+        {
+            "symbol": "CTD",
+            "priceOpen": 46.45,
+            "priceClose": 45.8,
+            "totalVolume": 310700.0
+        },
+        {
+            "symbol": "CTI",
+            "priceOpen": 14.1,
+            "priceClose": 13.95,
+            "totalVolume": 198400.0
+        },
+        {
+            "symbol": "DC4",
+            "priceOpen": 14.0,
+            "priceClose": 13.45,
+            "totalVolume": 92000.0
+        },
+        {
+            "symbol": "DPG",
+            "priceOpen": 50.0,
+            "priceClose": 52.4,
+            "totalVolume": 399800.0
+        },
+        {
+            "symbol": "FCN",
+            "priceOpen": 16.6,
+            "priceClose": 17.2,
+            "totalVolume": 2608100.0
+        },
+        {
+            "symbol": "GMH",
+            "priceOpen": 17.3,
+            "priceClose": 16.6,
+            "totalVolume": 2200.0
+        },
+        {
+            "symbol": "HAS",
+            "priceOpen": 11.35,
+            "priceClose": 11.25,
+            "totalVolume": 2300.0
+        },
+        {
+            "symbol": "HBC",
+            "priceOpen": 19.9,
+            "priceClose": 21.15,
+            "totalVolume": 5289600.0
+        },
+        {
+            "symbol": "HID",
+            "priceOpen": 6.3,
+            "priceClose": 6.3,
+            "totalVolume": 252200.0
+        },
+        {
+            "symbol": "HTI",
+            "priceOpen": 18.0,
+            "priceClose": 18.3,
+            "totalVolume": 7300.0
+        },
+        {
+            "symbol": "HTN",
+            "priceOpen": 36.7,
+            "priceClose": 36.45,
+            "totalVolume": 72400.0
+        },
+        {
+            "symbol": "HU1",
+            "priceOpen": 12.55,
+            "priceClose": 12.55,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "HUB",
+            "priceOpen": 26.9,
+            "priceClose": 26.7,
+            "totalVolume": 40900.0
+        },
+        {
+            "symbol": "IJC",
+            "priceOpen": 17.45,
+            "priceClose": 17.4,
+            "totalVolume": 833300.0
+        },
+        {
+            "symbol": "L10",
+            "priceOpen": 28.5,
+            "priceClose": 28.5,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "LCG",
+            "priceOpen": 14.6,
+            "priceClose": 15.0,
+            "totalVolume": 3060600.0
+        },
+        {
+            "symbol": "LGC",
+            "priceOpen": 40.05,
+            "priceClose": 42.3,
+            "totalVolume": 800.0
+        },
+        {
+            "symbol": "MCG",
+            "priceOpen": 4.82,
+            "priceClose": 4.81,
+            "totalVolume": 182100.0
+        },
+        {
+            "symbol": "MDG",
+            "priceOpen": 17.95,
+            "priceClose": 18.3,
+            "totalVolume": 1600.0
+        },
+        {
+            "symbol": "NHA",
+            "priceOpen": 28.4,
+            "priceClose": 29.5,
+            "totalVolume": 136200.0
+        },
+        {
+            "symbol": "PC1",
+            "priceOpen": 33.0,
+            "priceClose": 32.4,
+            "totalVolume": 956800.0
+        },
+        {
+            "symbol": "PHC",
+            "priceOpen": 9.49,
+            "priceClose": 9.53,
+            "totalVolume": 319000.0
+        },
+        {
+            "symbol": "PTC",
+            "priceOpen": 14.95,
+            "priceClose": 15.0,
+            "totalVolume": 38400.0
+        },
+        {
+            "symbol": "PXS",
+            "priceOpen": 5.77,
+            "priceClose": 5.48,
+            "totalVolume": 229200.0
+        },
+        {
+            "symbol": "ROS",
+            "priceOpen": 4.7,
+            "priceClose": 4.56,
+            "totalVolume": 7737500.0
+        },
+        {
+            "symbol": "SC5",
+            "priceOpen": 19.25,
+            "priceClose": 19.35,
+            "totalVolume": 1600.0
+        },
+        {
+            "symbol": "SZC",
+            "priceOpen": 47.7,
+            "priceClose": 48.0,
+            "totalVolume": 483700.0
+        },
+        {
+            "symbol": "TCD",
+            "priceOpen": 14.05,
+            "priceClose": 14.0,
+            "totalVolume": 313000.0
+        },
+        {
+            "symbol": "TGG",
+            "priceOpen": 9.74,
+            "priceClose": 9.6,
+            "totalVolume": 284400.0
+        },
+        {
+            "symbol": "UDC",
+            "priceOpen": 10.85,
+            "priceClose": 10.7,
+            "totalVolume": 220800.0
+        },
+        {
+            "symbol": "UIC",
+            "priceOpen": 52.0,
+            "priceClose": 52.0,
+            "totalVolume": 700.0
+        },
+        {
+            "symbol": "VCG",
+            "priceOpen": 26.5,
+            "priceClose": 26.0,
+            "totalVolume": 2801700.0
+        },
+        {
+            "symbol": "VNE",
+            "priceOpen": 10.8,
+            "priceClose": 10.95,
+            "totalVolume": 208700.0
+        },
+        {
+            "symbol": "VSI",
+            "priceOpen": 22.5,
+            "priceClose": 22.5,
+            "totalVolume": 0.0
+        }
+    ],
+    "Dịch vụ hỗ trợ kinh doanh": [
+        {
+            "symbol": "BCG",
+            "priceOpen": 19.9,
+            "priceClose": 20.5,
+            "totalVolume": 5812300.0
+        },
+        {
+            "symbol": "TV2",
+            "priceOpen": 46.0,
+            "priceClose": 44.9,
+            "totalVolume": 35300.0
+        }
+    ],
+    "Sản xuất bia": [
+        {
+            "symbol": "BHN",
+            "priceOpen": 52.7,
+            "priceClose": 54.9,
+            "totalVolume": 1900.0
+        },
+        {
+            "symbol": "SAB",
+            "priceOpen": 154.1,
+            "priceClose": 154.0,
+            "totalVolume": 178100.0
+        }
+    ],
+    "Bảo hiểm đa ngành": [
+        {
+            "symbol": "BIC",
+            "priceOpen": 26.05,
+            "priceClose": 26.7,
+            "totalVolume": 29800.0
+        },
+        {
+            "symbol": "BMI",
+            "priceOpen": 30.4,
+            "priceClose": 31.0,
+            "totalVolume": 244300.0
+        },
+        {
+            "symbol": "BVH",
+            "priceOpen": 50.9,
+            "priceClose": 50.9,
+            "totalVolume": 1102000.0
+        },
+        {
+            "symbol": "PGI",
+            "priceOpen": 27.55,
+            "priceClose": 27.55,
+            "totalVolume": 3800.0
+        }
+    ],
+    "Chế phẩm từ gỗ": [
+        {
+            "symbol": "BKG",
+            "priceOpen": 7.0,
+            "priceClose": 6.8,
+            "totalVolume": 98100.0
+        },
+        {
+            "symbol": "TEG",
+            "priceOpen": 10.75,
+            "priceClose": 10.75,
+            "totalVolume": 325200.0
+        }
+    ],
+    "Khai khoáng nói chung": [
+        {
+            "symbol": "BMC",
+            "priceOpen": 15.6,
+            "priceClose": 15.4,
+            "totalVolume": 30800.0
+        },
+        {
+            "symbol": "DHM",
+            "priceOpen": 10.3,
+            "priceClose": 10.25,
+            "totalVolume": 167000.0
+        },
+        {
+            "symbol": "FCM",
+            "priceOpen": 6.35,
+            "priceClose": 6.0,
+            "totalVolume": 254900.0
+        },
+        {
+            "symbol": "HII",
+            "priceOpen": 9.39,
+            "priceClose": 9.16,
+            "totalVolume": 229900.0
+        },
+        {
+            "symbol": "KSB",
+            "priceOpen": 32.4,
+            "priceClose": 32.65,
+            "totalVolume": 998200.0
+        },
+        {
+            "symbol": "LCM",
+            "priceOpen": 4.19,
+            "priceClose": 4.15,
+            "totalVolume": 78500.0
+        },
+        {
+            "symbol": "PLP",
+            "priceOpen": 10.0,
+            "priceClose": 9.99,
+            "totalVolume": 312900.0
+        }
+    ],
+    "Điện": [
+        {
+            "symbol": "BTP",
+            "priceOpen": 16.9,
+            "priceClose": 16.4,
+            "totalVolume": 1700.0
+        },
+        {
+            "symbol": "CHP",
+            "priceOpen": 24.0,
+            "priceClose": 23.7,
+            "totalVolume": 50700.0
+        },
+        {
+            "symbol": "DRL",
+            "priceOpen": 66.0,
+            "priceClose": 66.0,
+            "totalVolume": 200.0
+        },
+        {
+            "symbol": "GEG",
+            "priceOpen": 20.8,
+            "priceClose": 21.3,
+            "totalVolume": 638700.0
+        },
+        {
+            "symbol": "KHP",
+            "priceOpen": 11.4,
+            "priceClose": 11.0,
+            "totalVolume": 94300.0
+        },
+        {
+            "symbol": "NT2",
+            "priceOpen": 21.65,
+            "priceClose": 21.8,
+            "totalVolume": 366900.0
+        },
+        {
+            "symbol": "PGV",
+            "priceOpen": 27.6,
+            "priceClose": 28.6,
+            "totalVolume": 1700.0
+        },
+        {
+            "symbol": "POW",
+            "priceOpen": 12.75,
+            "priceClose": 12.85,
+            "totalVolume": 9745900.0
+        },
+        {
+            "symbol": "PPC",
+            "priceOpen": 17.65,
+            "priceClose": 17.6,
+            "totalVolume": 70800.0
+        },
+        {
+            "symbol": "SBA",
+            "priceOpen": 20.35,
+            "priceClose": 20.35,
+            "totalVolume": 56700.0
+        },
+        {
+            "symbol": "SHP",
+            "priceOpen": 27.1,
+            "priceClose": 27.4,
+            "totalVolume": 600.0
+        },
+        {
+            "symbol": "SJD",
+            "priceOpen": 17.35,
+            "priceClose": 17.35,
+            "totalVolume": 44100.0
+        },
+        {
+            "symbol": "TBC",
+            "priceOpen": 30.9,
+            "priceClose": 29.5,
+            "totalVolume": 6200.0
+        },
+        {
+            "symbol": "TMP",
+            "priceOpen": 61.2,
+            "priceClose": 62.0,
+            "totalVolume": 400.0
+        },
+        {
+            "symbol": "TTA",
+            "priceOpen": 13.2,
+            "priceClose": 13.25,
+            "totalVolume": 220800.0
+        },
+        {
+            "symbol": "TTE",
+            "priceOpen": 16.8,
+            "priceClose": 16.8,
+            "totalVolume": 1900.0
+        },
+        {
+            "symbol": "VPD",
+            "priceOpen": 16.9,
+            "priceClose": 17.25,
+            "totalVolume": 33000.0
+        },
+        {
+            "symbol": "VSH",
+            "priceOpen": 31.0,
+            "priceClose": 31.0,
+            "totalVolume": 152600.0
+        }
+    ],
+    "Cửa hàng chuyên dụng": [
+        {
+            "symbol": "BTT",
+            "priceOpen": 45.55,
+            "priceClose": 49.0,
+            "totalVolume": 700.0
+        },
+        {
+            "symbol": "CCI",
+            "priceOpen": 31.4,
+            "priceClose": 30.7,
+            "totalVolume": 13100.0
+        },
+        {
+            "symbol": "CMV",
+            "priceOpen": 14.0,
+            "priceClose": 15.0,
+            "totalVolume": 900.0
+        },
+        {
+            "symbol": "COM",
+            "priceOpen": 61.2,
+            "priceClose": 63.0,
+            "totalVolume": 8300.0
+        },
+        {
+            "symbol": "CTF",
+            "priceOpen": 25.55,
+            "priceClose": 25.55,
+            "totalVolume": 421900.0
+        },
+        {
+            "symbol": "FRT",
+            "priceOpen": 113.0,
+            "priceClose": 113.9,
+            "totalVolume": 863100.0
+        },
+        {
+            "symbol": "HAX",
+            "priceOpen": 20.3,
+            "priceClose": 20.65,
+            "totalVolume": 542500.0
+        },
+        {
+            "symbol": "PET",
+            "priceOpen": 35.8,
+            "priceClose": 37.0,
+            "totalVolume": 881600.0
+        },
+        {
+            "symbol": "PNC",
+            "priceOpen": 10.5,
+            "priceClose": 10.5,
+            "totalVolume": 400.0
+        },
+        {
+            "symbol": "PNJ",
+            "priceOpen": 104.9,
+            "priceClose": 107.9,
+            "totalVolume": 599200.0
+        },
+        {
+            "symbol": "SFC",
+            "priceOpen": 22.2,
+            "priceClose": 22.2,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "SVC",
+            "priceOpen": 102.7,
+            "priceClose": 102.7,
+            "totalVolume": 0.0
+        }
+    ],
+    "Nước": [
+        {
+            "symbol": "BWE",
+            "priceOpen": 48.5,
+            "priceClose": 48.5,
+            "totalVolume": 107700.0
+        },
+        {
+            "symbol": "CLW",
+            "priceOpen": 35.5,
+            "priceClose": 35.5,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "TDM",
+            "priceOpen": 35.4,
+            "priceClose": 35.7,
+            "totalVolume": 76000.0
+        },
+        {
+            "symbol": "TDW",
+            "priceOpen": 47.5,
+            "priceClose": 47.5,
+            "totalVolume": 0.0
+        }
+    ],
+    "Thiết bị điện": [
+        {
+            "symbol": "CAV",
+            "priceOpen": 56.0,
+            "priceClose": 56.0,
+            "totalVolume": 500.0
+        },
+        {
+            "symbol": "DQC",
+            "priceOpen": 24.2,
+            "priceClose": 23.6,
+            "totalVolume": 101000.0
+        },
+        {
+            "symbol": "EMC",
+            "priceOpen": 22.35,
+            "priceClose": 23.55,
+            "totalVolume": 6400.0
+        },
+        {
+            "symbol": "GEX",
+            "priceOpen": 20.9,
+            "priceClose": 21.7,
+            "totalVolume": 9367300.0
+        },
+        {
+            "symbol": "PAC",
+            "priceOpen": 33.3,
+            "priceClose": 34.25,
+            "totalVolume": 7200.0
+        },
+        {
+            "symbol": "RAL",
+            "priceOpen": 128.9,
+            "priceClose": 128.8,
+            "totalVolume": 1600.0
+        },
+        {
+            "symbol": "THI",
+            "priceOpen": 26.1,
+            "priceClose": 26.1,
+            "totalVolume": 0.0
+        }
+    ],
+    "Xây dựng, chế tạo nhà ở": [
+        {
+            "symbol": "CKG",
+            "priceOpen": 19.25,
+            "priceClose": 20.0,
+            "totalVolume": 508100.0
+        }
+    ],
+    "Thuốc lá": [
+        {
+            "symbol": "CLC",
+            "priceOpen": 37.75,
+            "priceClose": 37.7,
+            "totalVolume": 8200.0
+        }
+    ],
+    "Dịch vụ máy tính": [
+        {
+            "symbol": "CMG",
+            "priceOpen": 55.3,
+            "priceClose": 55.8,
+            "totalVolume": 64900.0
+        },
+        {
+            "symbol": "FPT",
+            "priceOpen": 96.5,
+            "priceClose": 98.2,
+            "totalVolume": 1404700.0
+        }
+    ],
+    "Bán lẻ dụng cụ gia đình": [
+        {
+            "symbol": "CRC",
+            "priceOpen": 7.9,
+            "priceClose": 7.7,
+            "totalVolume": 28100.0
+        }
+    ],
+    "Dịch vụ bất động sản": [
+        {
+            "symbol": "CRE",
+            "priceOpen": 31.1,
+            "priceClose": 30.95,
+            "totalVolume": 340600.0
+        },
+        {
+            "symbol": "DXS",
+            "priceOpen": 21.8,
+            "priceClose": 21.55,
+            "totalVolume": 203400.0
+        },
+        {
+            "symbol": "ILB",
+            "priceOpen": 35.7,
+            "priceClose": 35.0,
+            "totalVolume": 5600.0
+        },
+        {
+            "symbol": "KHG",
+            "priceOpen": 9.7,
+            "priceClose": 10.0,
+            "totalVolume": 940000.0
+        },
+        {
+            "symbol": "TN1",
+            "priceOpen": 34.7,
+            "priceClose": 34.5,
+            "totalVolume": 5700.0
+        }
+    ],
+    "Săm lốp": [
+        {
+            "symbol": "CSM",
+            "priceOpen": 17.3,
+            "priceClose": 17.3,
+            "totalVolume": 11600.0
+        },
+        {
+            "symbol": "DRC",
+            "priceOpen": 28.9,
+            "priceClose": 28.9,
+            "totalVolume": 282900.0
+        },
+        {
+            "symbol": "SRC",
+            "priceOpen": 17.15,
+            "priceClose": 17.3,
+            "totalVolume": 5600.0
+        }
+    ],
+    "Dịch vụ viễn thông cố định": [
+        {
+            "symbol": "CTR",
+            "priceOpen": 75.5,
+            "priceClose": 78.0,
+            "totalVolume": 600300.0
+        }
+    ],
+    "Khách sạn": [
+        {
+            "symbol": "DAH",
+            "priceOpen": 8.78,
+            "priceClose": 8.69,
+            "totalVolume": 293600.0
+        },
+        {
+            "symbol": "HOT",
+            "priceOpen": 32.0,
+            "priceClose": 32.0,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "VNG",
+            "priceOpen": 11.5,
+            "priceClose": 11.35,
+            "totalVolume": 30300.0
+        }
+    ],
+    "Công nghiệp đa ngành": [
+        {
+            "symbol": "DAT",
+            "priceOpen": 14.2,
+            "priceClose": 14.5,
+            "totalVolume": 2600.0
+        },
+        {
+            "symbol": "SMA",
+            "priceOpen": 9.29,
+            "priceClose": 9.41,
+            "totalVolume": 9200.0
+        }
+    ],
+    "Dược phẩm": [
+        {
+            "symbol": "DBD",
+            "priceOpen": 56.5,
+            "priceClose": 56.5,
+            "totalVolume": 20200.0
+        },
+        {
+            "symbol": "DBT",
+            "priceOpen": 12.45,
+            "priceClose": 12.35,
+            "totalVolume": 183400.0
+        },
+        {
+            "symbol": "DCL",
+            "priceOpen": 26.6,
+            "priceClose": 26.7,
+            "totalVolume": 41000.0
+        },
+        {
+            "symbol": "DHG",
+            "priceOpen": 90.9,
+            "priceClose": 91.6,
+            "totalVolume": 6200.0
+        },
+        {
+            "symbol": "IMP",
+            "priceOpen": 67.2,
+            "priceClose": 67.2,
+            "totalVolume": 1000.0
+        },
+        {
+            "symbol": "OPC",
+            "priceOpen": 55.4,
+            "priceClose": 56.0,
+            "totalVolume": 1200.0
+        },
+        {
+            "symbol": "SPM",
+            "priceOpen": 20.7,
+            "priceClose": 20.0,
+            "totalVolume": 600.0
+        },
+        {
+            "symbol": "TRA",
+            "priceOpen": 93.0,
+            "priceClose": 93.8,
+            "totalVolume": 5700.0
+        },
+        {
+            "symbol": "VDP",
+            "priceOpen": 37.5,
+            "priceClose": 38.5,
+            "totalVolume": 500.0
+        }
+    ],
+    "Giấy": [
+        {
+            "symbol": "DHC",
+            "priceOpen": 73.5,
+            "priceClose": 71.9,
+            "totalVolume": 294600.0
+        },
+        {
+            "symbol": "HAP",
+            "priceOpen": 8.0,
+            "priceClose": 7.75,
+            "totalVolume": 161400.0
+        },
+        {
+            "symbol": "HHP",
+            "priceOpen": 10.2,
+            "priceClose": 10.3,
+            "totalVolume": 84700.0
+        },
+        {
+            "symbol": "VID",
+            "priceOpen": 9.6,
+            "priceClose": 9.6,
+            "totalVolume": 2100.0
+        }
+    ],
+    "Đồ đạc, nội thất": [
+        {
+            "symbol": "DLG",
+            "priceOpen": 5.08,
+            "priceClose": 5.1,
+            "totalVolume": 2378800.0
+        },
+        {
+            "symbol": "GDT",
+            "priceOpen": 49.2,
+            "priceClose": 48.0,
+            "totalVolume": 2100.0
+        },
+        {
+            "symbol": "GTA",
+            "priceOpen": 14.25,
+            "priceClose": 14.5,
+            "totalVolume": 1300.0
+        },
+        {
+            "symbol": "SAV",
+            "priceOpen": 24.0,
+            "priceClose": 24.15,
+            "totalVolume": 900.0
+        },
+        {
+            "symbol": "TTF",
+            "priceOpen": 9.01,
+            "priceClose": 9.2,
+            "totalVolume": 3270800.0
+        }
+    ],
+    "Thiết bị y tế": [
+        {
+            "symbol": "DMC",
+            "priceOpen": 49.8,
+            "priceClose": 49.8,
+            "totalVolume": 100.0
+        },
+        {
+            "symbol": "JVC",
+            "priceOpen": 6.5,
+            "priceClose": 6.39,
+            "totalVolume": 658000.0
+        }
+    ],
+    "Dịch vụ vui chơi giải trí": [
+        {
+            "symbol": "DSN",
+            "priceOpen": 45.9,
+            "priceClose": 45.75,
+            "totalVolume": 9200.0
+        },
+        {
+            "symbol": "TCT",
+            "priceOpen": 37.0,
+            "priceClose": 38.45,
+            "totalVolume": 6800.0
+        }
+    ],
+    "Thép": [
+        {
+            "symbol": "DTL",
+            "priceOpen": 38.5,
+            "priceClose": 37.5,
+            "totalVolume": 700.0
+        },
+        {
+            "symbol": "HMC",
+            "priceOpen": 28.05,
+            "priceClose": 27.5,
+            "totalVolume": 90300.0
+        },
+        {
+            "symbol": "HPG",
+            "priceOpen": 36.75,
+            "priceClose": 34.9,
+            "totalVolume": 43221300.0
+        },
+        {
+            "symbol": "HSG",
+            "priceOpen": 21.2,
+            "priceClose": 20.2,
+            "totalVolume": 11594500.0
+        },
+        {
+            "symbol": "NKG",
+            "priceOpen": 30.2,
+            "priceClose": 28.35,
+            "totalVolume": 9478000.0
+        },
+        {
+            "symbol": "POM",
+            "priceOpen": 9.06,
+            "priceClose": 8.7,
+            "totalVolume": 81900.0
+        },
+        {
+            "symbol": "SMC",
+            "priceOpen": 25.3,
+            "priceClose": 24.5,
+            "totalVolume": 230700.0
+        },
+        {
+            "symbol": "TLH",
+            "priceOpen": 11.9,
+            "priceClose": 11.4,
+            "totalVolume": 623800.0
+        },
+        {
+            "symbol": "VCA",
+            "priceOpen": 20.9,
+            "priceClose": 20.2,
+            "totalVolume": 900.0
+        }
+    ],
+    "Công cụ đầu tư cổ phần": [
+        {
+            "symbol": "E1VFVN30",
+            "priceOpen": 21.3,
+            "priceClose": 21.32,
+            "totalVolume": 2128300.0
+        },
+        {
+            "symbol": "FUCTVGF3",
+            "priceOpen": 12.8,
+            "priceClose": 12.8,
+            "totalVolume": 0.0
+        },
+        {
+            "symbol": "FUCVREIT",
+            "priceOpen": 8.93,
+            "priceClose": 8.91,
+            "totalVolume": 200.0
+        },
+        {
+            "symbol": "FUEIP100",
+            "priceOpen": 9.04,
+            "priceClose": 9.09,
+            "totalVolume": 75400.0
+        },
+        {
+            "symbol": "FUESSV50",
+            "priceOpen": 18.98,
+            "priceClose": 18.94,
+            "totalVolume": 14400.0
+        },
+        {
+            "symbol": "FUESSVFL",
+            "priceOpen": 16.8,
+            "priceClose": 16.8,
+            "totalVolume": 92300.0
+        },
+        {
+            "symbol": "FUEVFVND",
+            "priceOpen": 25.5,
+            "priceClose": 25.89,
+            "totalVolume": 2564400.0
+        },
+        {
+            "symbol": "FUEVN100",
+            "priceOpen": 16.11,
+            "priceClose": 16.16,
+            "totalVolume": 70600.0
+        }
+    ],
+    "Phần mềm": [
+        {
+            "symbol": "ELC",
+            "priceOpen": 17.6,
+            "priceClose": 17.8,
+            "totalVolume": 302800.0
+        },
+        {
+            "symbol": "ITD",
+            "priceOpen": 13.05,
+            "priceClose": 13.3,
+            "totalVolume": 85100.0
+        },
+        {
+            "symbol": "SGT",
+            "priceOpen": 29.0,
+            "priceClose": 29.4,
+            "totalVolume": 69200.0
+        }
+    ],
+    "Các sản phẩm gia dụng lâu bền": [
+        {
+            "symbol": "EVE",
+            "priceOpen": 14.7,
+            "priceClose": 14.7,
+            "totalVolume": 109100.0
+        },
+        {
+            "symbol": "SHA",
+            "priceOpen": 6.6,
+            "priceClose": 6.5,
+            "totalVolume": 20700.0
+        },
+        {
+            "symbol": "SHI",
+            "priceOpen": 14.9,
+            "priceClose": 15.05,
+            "totalVolume": 407400.0
+        }
+    ],
+    "Tài chính cá nhân": [
+        {
+            "symbol": "EVF",
+            "priceOpen": 11.0,
+            "priceClose": 11.4,
+            "totalVolume": 190800.0
+        }
+    ],
+    "null": [
+        {
+            "symbol": "FUEKIV30",
+            "priceOpen": 8.11,
+            "priceClose": 8.25,
+            "totalVolume": 53100.0
+        },
+        {
+            "symbol": "FUEMAV30",
+            "priceOpen": 14.61,
+            "priceClose": 14.86,
+            "totalVolume": 20000.0
+        },
+        {
+            "symbol": "FUESSV30",
+            "priceOpen": 15.7,
+            "priceClose": 15.93,
+            "totalVolume": 10600.0
+        }
+    ],
+    "Ôtô": [
+        {
+            "symbol": "HHS",
+            "priceOpen": 6.8,
+            "priceClose": 6.65,
+            "totalVolume": 1726900.0
+        },
+        {
+            "symbol": "TMT",
+            "priceOpen": 19.95,
+            "priceClose": 20.15,
+            "totalVolume": 31200.0
+        }
+    ],
+    "Xe tải và phương tiện vận chuyển thương mại": [
+        {
+            "symbol": "HTL",
+            "priceOpen": 19.55,
+            "priceClose": 20.4,
+            "totalVolume": 14800.0
+        }
+    ],
+    "Thiết bị, đồ dùng phục vụ mục đích vui chơi giải trí": [
+        {
+            "symbol": "HVH",
+            "priceOpen": 7.57,
+            "priceClose": 7.36,
+            "totalVolume": 50300.0
+        }
+    ],
+    "Hàng không": [
+        {
+            "symbol": "HVN",
+            "priceOpen": 17.85,
+            "priceClose": 17.4,
+            "totalVolume": 2690900.0
+        },
+        {
+            "symbol": "VJC",
+            "priceOpen": 124.8,
+            "priceClose": 125.3,
+            "totalVolume": 608800.0
+        }
+    ],
+    "Tài chính chuyên biệt": [
+        {
+            "symbol": "IBC",
+            "priceOpen": 20.3,
+            "priceClose": 19.9,
+            "totalVolume": 143800.0
+        }
+    ],
+    "Thiết bị viễn thông": [
+        {
+            "symbol": "ICT",
+            "priceOpen": 16.2,
+            "priceClose": 16.1,
+            "totalVolume": 14500.0
+        },
+        {
+            "symbol": "SAM",
+            "priceOpen": 11.4,
+            "priceClose": 11.3,
+            "totalVolume": 595500.0
+        },
+        {
+            "symbol": "TYA",
+            "priceOpen": 17.5,
+            "priceClose": 18.0,
+            "totalVolume": 8600.0
+        }
+    ],
+    "Sản phẩm gia dụng không lâu bền": [
+        {
+            "symbol": "LIX",
+            "priceOpen": 43.1,
+            "priceClose": 43.0,
+            "totalVolume": 10600.0
+        },
+        {
+            "symbol": "TLG",
+            "priceOpen": 41.5,
+            "priceClose": 42.3,
+            "totalVolume": 13600.0
+        }
+    ],
+    "Máy công nghiệp": [
+        {
+            "symbol": "LM8",
+            "priceOpen": 12.5,
+            "priceClose": 12.8,
+            "totalVolume": 7500.0
+        },
+        {
+            "symbol": "SRF",
+            "priceOpen": 13.5,
+            "priceClose": 13.5,
+            "totalVolume": 4000.0
+        }
+    ],
+    "Vận tải biển": [
+        {
+            "symbol": "MHC",
+            "priceOpen": 7.49,
+            "priceClose": 7.5,
+            "totalVolume": 110400.0
+        },
+        {
+            "symbol": "PVT",
+            "priceOpen": 19.2,
+            "priceClose": 19.3,
+            "totalVolume": 3494200.0
+        },
+        {
+            "symbol": "SFI",
+            "priceOpen": 68.0,
+            "priceClose": 68.0,
+            "totalVolume": 20000.0
+        },
+        {
+            "symbol": "SKG",
+            "priceOpen": 14.1,
+            "priceClose": 14.2,
+            "totalVolume": 195000.0
+        },
+        {
+            "symbol": "TCO",
+            "priceOpen": 12.25,
+            "priceClose": 12.25,
+            "totalVolume": 55700.0
+        },
+        {
+            "symbol": "VIP",
+            "priceOpen": 7.48,
+            "priceClose": 7.26,
+            "totalVolume": 100700.0
+        },
+        {
+            "symbol": "VNL",
+            "priceOpen": 21.8,
+            "priceClose": 21.8,
+            "totalVolume": 12400.0
+        },
+        {
+            "symbol": "VOS",
+            "priceOpen": 13.85,
+            "priceClose": 14.3,
+            "totalVolume": 829600.0
+        },
+        {
+            "symbol": "VTO",
+            "priceOpen": 10.2,
+            "priceClose": 10.3,
+            "totalVolume": 438000.0
+        }
+    ],
+    "Bảo hiểm tài sản & thương vong": [
+        {
+            "symbol": "MIG",
+            "priceOpen": 25.4,
+            "priceClose": 26.1,
+            "totalVolume": 1972900.0
+        }
+    ],
+    "Nước ngọt": [
+        {
+            "symbol": "NAF",
+            "priceOpen": 14.0,
+            "priceClose": 13.85,
+            "totalVolume": 71500.0
+        },
+        {
+            "symbol": "SCD",
+            "priceOpen": 18.45,
+            "priceClose": 18.35,
+            "totalVolume": 3300.0
+        },
+        {
+            "symbol": "SMB",
+            "priceOpen": 41.5,
+            "priceClose": 41.4,
+            "totalVolume": 11600.0
+        },
+        {
+            "symbol": "VCF",
+            "priceOpen": 238.1,
+            "priceClose": 238.1,
+            "totalVolume": 100.0
+        }
+    ],
+    "Dịch vụ giao nhận": [
+        {
+            "symbol": "NCT",
+            "priceOpen": 87.0,
+            "priceClose": 87.2,
+            "totalVolume": 5300.0
+        }
+    ],
+    "Đồ chơi các loại": [
+        {
+            "symbol": "NHT",
+            "priceOpen": 27.95,
+            "priceClose": 27.7,
+            "totalVolume": 3000.0
+        }
+    ],
+    "Dầu khí tổng hợp": [
+        {
+            "symbol": "PLX",
+            "priceOpen": 40.5,
+            "priceClose": 40.0,
+            "totalVolume": 770900.0
+        },
+        {
+            "symbol": "PSH",
+            "priceOpen": 14.1,
+            "priceClose": 13.55,
+            "totalVolume": 543000.0
+        },
+        {
+            "symbol": "TDG",
+            "priceOpen": 7.25,
+            "priceClose": 7.39,
+            "totalVolume": 343200.0
+        }
+    ],
+    "Dịch vụ và Thiết bị dầu khí": [
+        {
+            "symbol": "PVD",
+            "priceOpen": 20.4,
+            "priceClose": 20.6,
+            "totalVolume": 8160400.0
+        }
+    ],
+    "Điện tái tạo": [
+        {
+            "symbol": "S4A",
+            "priceOpen": 34.5,
+            "priceClose": 35.9,
+            "totalVolume": 5200.0
+        }
+    ],
+    "Thiết bị điện tử văn phòng": [
+        {
+            "symbol": "ST8",
+            "priceOpen": 17.5,
+            "priceClose": 16.3,
+            "totalVolume": 45100.0
+        }
+    ],
+    "Hoạt động xuất bản": [
+        {
+            "symbol": "SVT",
+            "priceOpen": 16.95,
+            "priceClose": 16.85,
+            "totalVolume": 8100.0
+        }
+    ],
+    "Quỹ tín thác bất động sản đa dạng": [
+        {
+            "symbol": "TIP",
+            "priceOpen": 26.1,
+            "priceClose": 26.15,
+            "totalVolume": 64400.0
+        }
+    ],
+    "Dịch vụ y tế": [
+        {
+            "symbol": "TNH",
+            "priceOpen": 37.5,
+            "priceClose": 38.0,
+            "totalVolume": 273400.0
+        }
+    ],
+    "Kim loại màu": [
+        {
+            "symbol": "TNI",
+            "priceOpen": 5.1,
+            "priceClose": 4.99,
+            "totalVolume": 183700.0
+        }
+    ],
+    "Bán lẻ dược phẩm": [
+        {
+            "symbol": "VMD",
+            "priceOpen": 24.0,
+            "priceClose": 24.6,
+            "totalVolume": 36100.0
+        }
+    ],
+    "Du lịch": [
+        {
+            "symbol": "VNS",
+            "priceOpen": 12.8,
+            "priceClose": 12.8,
+            "totalVolume": 6300.0
+        }
+    ],
+    "Than đá": [
+        {
+            "symbol": "VPG",
+            "priceOpen": 45.9,
+            "priceClose": 46.6,
+            "totalVolume": 356000.0
+        }
+    ],
+    "Đồ điện tử": [
+        {
+            "symbol": "VTB",
+            "priceOpen": 13.2,
+            "priceClose": 13.2,
+            "totalVolume": 400.0
+        }
+    ]
+}
